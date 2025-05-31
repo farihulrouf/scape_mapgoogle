@@ -37,7 +37,7 @@ A Python script to scrape data from Google Maps using Playwright.
 
 ## Run Program .env
 5. **Running**:
-   if you dont have file Plase download file csv LINKS.csv here www](https://drive.google.com/file/d/1nozcf5TH0xDfkp-3cv0DKg4amwKCGRfK/view?usp=sharing.
+   if you dont have file, Please download file csv LINKS.csv here www](https://drive.google.com/file/d/1nozcf5TH0xDfkp-3cv0DKg4amwKCGRfK/view?usp=sharing.
    place file Links.csv to this folder
    running program with script
    ```bash
