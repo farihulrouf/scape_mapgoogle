@@ -15,9 +15,6 @@ A Python script to scrape data from Google Maps using Playwright.
    source env/bin/activate  # On Windows use: env\Scripts\activate
 
 
-
-   python3 scrape_map.py
-
 ## Clone fro git
 2. **Clone git repo**:
    ``bash
