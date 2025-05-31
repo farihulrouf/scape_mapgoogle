@@ -40,7 +40,8 @@ A Python script to scrape data from Google Maps using Selenium.
 
 ## Run Program .env
 5. **Running**:
-   pleace plase Links.csv in this folder
+   Plase download LINK url here www.
+   place file Links.csv to this folder
    running program with script
    ```bash
    python3 scrape_map.py
