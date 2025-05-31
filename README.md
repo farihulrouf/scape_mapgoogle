@@ -20,15 +20,18 @@ A Python script to scrape data from Google Maps using Selenium.
 
 ## Clone fro git
 2. **Clone git repo**:
+   ``bash
    git clone https://github.com/farihulrouf/scrape_google_map.git
    cd scrape_google_map
 
 ## Install dependency 
 3. **install**:
+   ```bash
    pip install -r requirements.txt
 
 ## Setting .env
 4. **setting .env**:
+   ```bash
    cp .env.example .env  # Copy the example file
    MAX_CONCURRENT=6     # Recommended: Start with 100
    HEADLESS=True         #if you choose False browser will appear  
@@ -38,4 +41,6 @@ A Python script to scrape data from Google Maps using Selenium.
 ## Run Program .env
 5. **Running**:
    pleace plase Links.csv in this folder
-   running program with script python3 scrape_map.py
+   running program with script
+   ```bash
+   python3 scrape_map.py
