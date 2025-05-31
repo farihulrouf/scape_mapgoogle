@@ -1,6 +1,6 @@
 # Google Maps Scraper
 
-A Python script to scrape data from Google Maps using Selenium.
+A Python script to scrape data from Google Maps using Playwright.
 
 ## Prerequisites
 
